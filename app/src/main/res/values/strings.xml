@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">TestConstraintLayoutGroup</string>
+    <string name="button">button</string>
+    <string name="centered_button">centered button</string>
+    <string name="centering">centering</string>
+</resources>
